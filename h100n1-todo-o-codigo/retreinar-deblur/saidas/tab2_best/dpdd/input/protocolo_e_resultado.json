@@ -1,0 +1,115 @@
+{
+  "rotulo": "Input (nosso)",
+  "modo": "identidade",
+  "peso": null,
+  "variante_adapter": null,
+  "main_adapter": null,
+  "text_adapter": null,
+  "steps": null,
+  "guidance_scale": null,
+  "no_tiling_forcado": false,
+  "seed": 42,
+  "dataset": "akcit-pixel/DDPD",
+  "split": "test",
+  "n_amostras": 75,
+  "long_side": 0,
+  "gt_passou_por_resize": true,
+  "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+  "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+  "metricas": {
+    "LPIPS": {
+      "variante_pyiqa": "lpips+",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "DISTS": {
+      "variante_pyiqa": "dists",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "CLIP-IQA": {
+      "variante_pyiqa": "clipiqa+",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MANIQA": {
+      "variante_pyiqa": "maniqa-kadid",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MUSIQ": {
+      "variante_pyiqa": "musiq",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    }
+  },
+  "resolucoes_da_metrica": [
+    {
+      "w": 1680,
+      "h": 1120
+    }
+  ],
+  "ambiente": {
+    "python": "3.10.12",
+    "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+    "torch": "2.9.0+cu126"
+  },
+  "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+  "resultado": {
+    "LPIPS": {
+      "media": 0.3440080112218857,
+      "mediana": 0.33046624064445496,
+      "min": 0.10546326637268066,
+      "max": 0.6675606966018677,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "DISTS": {
+      "media": 0.18304006576538087,
+      "mediana": 0.18353015184402466,
+      "min": 0.0690232515335083,
+      "max": 0.38725465536117554,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "CLIP-IQA": {
+      "media": 0.5392038230101267,
+      "mediana": 0.5556334853172302,
+      "min": 0.2548590898513794,
+      "max": 0.7248803377151489,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MANIQA": {
+      "media": 0.28558380603790284,
+      "mediana": 0.2829347252845764,
+      "min": 0.13774007558822632,
+      "max": 0.5077291131019592,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MUSIQ": {
+      "media": 55.312774378458656,
+      "mediana": 56.31427764892578,
+      "min": 12.71906852722168,
+      "max": 73.24486541748047,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    }
+  }
+}

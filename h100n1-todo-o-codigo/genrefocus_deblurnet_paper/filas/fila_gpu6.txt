@@ -1,0 +1,4 @@
+# 2026-09-10 — BASELINE A NO MESMO STEP (15k). Sem ele o numero do B nao se le.
+baseA15k-rb|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh_step15000.safetensors --nome baseA-15k-RB-full --saida juliadollis/bokeh-eval-rb-baseA15k --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+baseA15k-rd|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh_step15000.safetensors --nome baseA-15k-RD-full --saida juliadollis/bokeh-eval-rd-baseA15k --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+baseA15k-lfr|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh_step15000.safetensors --nome baseA-15k-LFREPRO-full --saida juliadollis/bokeh-eval-lfrepro-baseA15k-full --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

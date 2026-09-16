@@ -1,0 +1,6 @@
+{
+  "best_metric": 0.6196357006946126,
+  "best_epoch": 24,
+  "monitor": "boundary_fscore",
+  "history_len": 49
+}

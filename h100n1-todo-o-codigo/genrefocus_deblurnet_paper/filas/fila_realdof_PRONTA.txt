@@ -1,0 +1,34 @@
+# ============================================================================
+# BENCHMARK REALDOF — avaliacao SEM VIES DE DISTRIBUICAO
+# Preparada 2026-08-27. NAO DISPARADA: aguarda autorizacao da usuaria.
+#
+# POR QUE ESTE CONJUNTO
+# O RealBokeh test esta livre de contaminacao literal (provei: 5864 de 5864
+# caminhos da rota c vem de train/), mas o nosso modelo treinou no split train
+# do MESMO dataset: mesma camera, mesmo fotografo, mesmo pipeline de alinhamento.
+# Isso e vies de DISTRIBUICAO e um revisor apontaria na primeira leitura.
+# O RealDOF nao tem esse problema:
+#   - NAO esta no treino do BokehNet de NENHUM dos dois modelos. O paper (4.1)
+#     treina o BokehNet em [80] GenPhoto, [27] EBB, ITW [19], RealBokeh [57] e
+#     LFDOF [52]. As nossas rotas sao a=EBB!+GenPhoto, b=Flickr, c=RealBokeh
+#     train + LFDOF. RealDOF nao aparece em lugar nenhum.
+#   - camera diferente das tres rotas;
+#   - bokeh MAIS FORTE dos candidatos: razao de nitidez AIF/alvo mediana 13,73x,
+#     contra 7,83x do RealBokeh test e 3,55x da DPDD. Bokeh forte e o que faz o
+#     benchmark discriminar modelo em vez de premiar quem nao mexe na imagem.
+#
+# REGRA DA FAIXA DE K: TODOS os modelos usam --k-escala 3.0 (busca 3..300).
+# Misturar faixas (3..300 para um, 1..100 para outro) ja produziu uma tabela
+# invalida antes. Nao repetir. Se mudar a faixa, muda para TODOS.
+#
+# A LINHA DE IDENTIDADE NAO ESTA AQUI: ela nao usa GPU nem run_3models.py.
+# Rodar em separado com baseline_identidade.py (comando no relatorio).
+# Sem ela a tabela nao pode ser lida, porque a AIF ja e a mesma cena do alvo.
+# ============================================================================
+
+rdof-oficial|--lora-repo nycu-cplab/Genfocus-Model --lora-file bokehNet.safetensors --nome oficial-paper-RDOF-k300 --saida juliadollis/bokeh-eval-rdof-oficial --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+rdof-nosso|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh.safetensors --nome nosso-fase2-RDOF-k300 --saida juliadollis/bokeh-eval-rdof-nosso --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+rdof-kfix|--lora-repo juliadollis/genrefocus-bokehnet-fase2-kfix --lora-file bokeh_step60000.safetensors --nome kfix-RDOF-k300 --saida juliadollis/bokeh-eval-rdof-kfix --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+rdof-rotac|--lora-repo juliadollis/genrefocus-bokehnet-fase2-rotac-only --lora-file bokeh_step44000.safetensors --nome rotac-only-RDOF-k300 --saida juliadollis/bokeh-eval-rdof-rotac --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+rdof-fase1|--lora-repo juliadollis/genrefocus-bokehnet-synth-2gpu --lora-file bokeh.safetensors --nome fase1-RDOF-k300 --saida juliadollis/bokeh-eval-rdof-fase1 --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+rdof-semtreino|--lora-repo none --nome sem-treino-RDOF-k300 --saida juliadollis/bokeh-eval-rdof-semtreino --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0

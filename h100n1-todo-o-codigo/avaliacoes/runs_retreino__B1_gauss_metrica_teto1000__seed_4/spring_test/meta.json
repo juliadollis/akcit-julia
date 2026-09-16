@@ -1,0 +1,9 @@
+{
+  "checkpoint": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_4/best.pt",
+  "mesa": "spring_test",
+  "raiz": "/data/spring_split/test",
+  "n_imagens": 485,
+  "n_cenas": 13,
+  "batch_size": 8,
+  "size": 512
+}

@@ -1,0 +1,1 @@
+eq4-nosso-lfrepro|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh.safetensors --nome nosso-fase2-LFREPRO-eq4 --saida juliadollis/bokeh-eq4-lfrepro-nosso --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

@@ -1,0 +1,2 @@
+# 2026-09-10 — LF-repro do baseline no mesmo step.
+baseA15k-lfr|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh_step15000.safetensors --nome baseA-15k-LFREPRO-full --saida juliadollis/bokeh-eval-lfrepro-baseA15k-full --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

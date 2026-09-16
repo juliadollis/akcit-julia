@@ -1,0 +1,136 @@
+{
+  "rotulo": "oficial (nycu-cplab)",
+  "modo": "modelo",
+  "peso": {
+    "caminho": "/workspace/hf-cache-julia/hub/models--nycu-cplab--Genfocus-Model/snapshots/65b5b024b1a429ee1beef5da31113a1ce53266db/deblurNet.safetensors",
+    "nome": "deblurNet.safetensors",
+    "bytes": 463703368,
+    "sha256": "8d4c39604e028ce74524fe899223652268fd0e24cc0e40247636bcf6ed0c9f75"
+  },
+  "variante_adapter": "cond-only",
+  "main_adapter": null,
+  "text_adapter": "igual_ao_main",
+  "steps": 28,
+  "guidance_scale": 3.5,
+  "no_tiling_forcado": false,
+  "seed": 42,
+  "dataset": "akcit-pixel/RealDOF",
+  "split": "validation",
+  "n_amostras": 50,
+  "long_side": 0,
+  "gt_passou_por_resize": true,
+  "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+  "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+  "metricas": {
+    "LPIPS": {
+      "variante_pyiqa": "lpips+",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "DISTS": {
+      "variante_pyiqa": "dists",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "CLIP-IQA": {
+      "variante_pyiqa": "clipiqa+",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MANIQA": {
+      "variante_pyiqa": "maniqa-kadid",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MUSIQ": {
+      "variante_pyiqa": "musiq",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    }
+  },
+  "resolucoes_da_metrica": [
+    {
+      "w": 2304,
+      "h": 1536
+    },
+    {
+      "w": 2320,
+      "h": 1520
+    },
+    {
+      "w": 2320,
+      "h": 1536
+    },
+    {
+      "w": 2336,
+      "h": 1536
+    },
+    {
+      "w": 2336,
+      "h": 1552
+    }
+  ],
+  "ambiente": {
+    "python": "3.10.12",
+    "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+    "torch": "2.9.0+cu126"
+  },
+  "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+  "resultado": {
+    "LPIPS": {
+      "media": 0.23972174063324928,
+      "mediana": 0.24871721863746643,
+      "min": 0.10029219835996628,
+      "max": 0.3835921287536621,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "DISTS": {
+      "media": 0.11530860424041749,
+      "mediana": 0.11785507202148438,
+      "min": 0.06181621551513672,
+      "max": 0.18191230297088623,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "CLIP-IQA": {
+      "media": 0.4987177500128746,
+      "mediana": 0.4954288899898529,
+      "min": 0.24989621341228485,
+      "max": 0.6435712575912476,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MANIQA": {
+      "media": 0.35418145179748534,
+      "mediana": 0.3345639407634735,
+      "min": 0.21446901559829712,
+      "max": 0.5334872007369995,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MUSIQ": {
+      "media": 42.46806728363037,
+      "mediana": 43.6029167175293,
+      "min": 19.961767196655273,
+      "max": 61.452247619628906,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "maior"
+    }
+  }
+}

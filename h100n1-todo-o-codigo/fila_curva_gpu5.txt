@@ -1,0 +1,1 @@
+curva-30k-RB|--lora-repo juliadollis/genrefocus-bokehnet-fase2-rotac-only --lora-file bokeh_step30000.safetensors --nome rotac-only-30k-RB-full --saida juliadollis/bokeh-eval-rb-rotac30k-full --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0

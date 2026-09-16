@@ -1,0 +1,29 @@
+# ============================================================================
+# LF-BOKEH REPRODUZIDO (base BLB) — fila PRONTA, NAO DISPARADA
+# Preparada 2026-08-27. Dataset: juliadollis/lf-bokeh-repro-blb
+#
+# REGRA DA FAIXA DE K: TODOS com --k-escala 3.0 (busca 3..300). Faixa unica.
+# Misturar faixas ja invalidou uma tabela antes. Se mudar, muda para TODOS.
+#
+# AMOSTRA COMPLETA: --limite 0 em todos. Nada de 40 linhas.
+#
+# A LINHA DE IDENTIDADE nao entra aqui (nao usa GPU nem run_3models.py).
+# Rodar em separado:
+#   python3 baseline_identidade.py --dataset-entrada juliadollis/lf-bokeh-repro-blb \
+#     --saida juliadollis/bokeh-eval-lfrepro-identidade \
+#     --nome LINHA-DE-IDENTIDADE-LFREPRO --limite 0 --long-side 512 --lote 20
+# Sem ela a tabela nao pode ser lida: a AIF ja e a mesma cena do alvo.
+#
+# LVCorr: depois da inferencia, rodar na convencao fixada (Pearson(K, lapvar do
+# FUNDO), sinal cru), que usa a disparidade verdadeira do BLB:
+#   python3 audit_l2/blb_lvcorr.py --saida-infer <repo> --modo fundo
+# O avaliador padrao do projeto usa a imagem INTEIRA; os dois numeros NAO sao a
+# mesma coisa e nao devem ser postos na mesma coluna.
+# ============================================================================
+
+lfr-oficial|--lora-repo nycu-cplab/Genfocus-Model --lora-file bokehNet.safetensors --nome oficial-paper-LFREPRO-k300 --saida juliadollis/bokeh-eval-lfrepro-oficial --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+lfr-nosso|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh.safetensors --nome nosso-fase2-LFREPRO-k300 --saida juliadollis/bokeh-eval-lfrepro-nosso --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+lfr-kfix|--lora-repo juliadollis/genrefocus-bokehnet-fase2-kfix --lora-file bokeh_step60000.safetensors --nome kfix-LFREPRO-k300 --saida juliadollis/bokeh-eval-lfrepro-kfix --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+lfr-rotac|--lora-repo juliadollis/genrefocus-bokehnet-fase2-rotac-only --lora-file bokeh_step44000.safetensors --nome rotac-only-LFREPRO-k300 --saida juliadollis/bokeh-eval-lfrepro-rotac --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+lfr-fase1|--lora-repo juliadollis/genrefocus-bokehnet-synth-2gpu --lora-file bokeh.safetensors --nome fase1-LFREPRO-k300 --saida juliadollis/bokeh-eval-lfrepro-fase1 --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+lfr-semtreino|--lora-repo none --nome sem-treino-LFREPRO-k300 --saida juliadollis/bokeh-eval-lfrepro-semtreino --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

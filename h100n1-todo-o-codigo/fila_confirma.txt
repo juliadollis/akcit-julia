@@ -1,0 +1,25 @@
+# Confirmacao dos 3 termos que bateram o controle na ablacao do Wallisson.
+# Pesos identicos aos do BASE_W dele: grad 0.3, metric 0.2, geod 0.1, berhu 0.7.
+# Protocolo NOSSO: split de TESTE avaliado no fim, metrics.py COM a mascara de
+# validade, align-mode full (default do train_single), 100 epocas com early stop,
+# batch 8, 512 px. Ou seja, diretamente comparavel com o B0 da nossa campanha.
+# Ordem por SEED, para todos os bracos terem o mesmo n a qualquer momento.
+# formato: nome|pesos|seed
+Bgrad|--berhu 0.7 --grad 0.3 --normal 0 --gauss 0 --geod 0 --metric 0|0
+Bmetric|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0 --metric 0.2|0
+Bgeod|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0.1 --metric 0|0
+Bgrad|--berhu 0.7 --grad 0.3 --normal 0 --gauss 0 --geod 0 --metric 0|1
+Bmetric|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0 --metric 0.2|1
+Bgeod|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0.1 --metric 0|1
+Bgrad|--berhu 0.7 --grad 0.3 --normal 0 --gauss 0 --geod 0 --metric 0|2
+Bmetric|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0 --metric 0.2|2
+Bgeod|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0.1 --metric 0|2
+Bgrad|--berhu 0.7 --grad 0.3 --normal 0 --gauss 0 --geod 0 --metric 0|3
+Bmetric|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0 --metric 0.2|3
+Bgeod|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0.1 --metric 0|3
+Bgrad|--berhu 0.7 --grad 0.3 --normal 0 --gauss 0 --geod 0 --metric 0|4
+Bmetric|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0 --metric 0.2|4
+Bgeod|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0.1 --metric 0|4
+Bgrad|--berhu 0.7 --grad 0.3 --normal 0 --gauss 0 --geod 0 --metric 0|5
+Bmetric|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0 --metric 0.2|5
+Bgeod|--berhu 0.7 --grad 0 --normal 0 --gauss 0 --geod 0.1 --metric 0|5

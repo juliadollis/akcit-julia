@@ -1,0 +1,4 @@
+juliadollis/bokeh-eq4-rb-rotac60k
+juliadollis/bokeh-eq4-rb-kfix
+juliadollis/bokeh-eq4-ebb-kfix
+juliadollis/bokeh-eq4-lfrepro-kfix

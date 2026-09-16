@@ -1,0 +1,1 @@
+eq4-kfix-rb|--lora-repo juliadollis/genrefocus-bokehnet-fase2-kfix --lora-file bokeh_step60000.safetensors --nome kfix-RB-eq4 --saida juliadollis/bokeh-eq4-rb-kfix --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0

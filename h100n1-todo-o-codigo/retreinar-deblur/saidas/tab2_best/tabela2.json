@@ -1,0 +1,634 @@
+{
+  "tabelas": {
+    "dpdd": [
+      {
+        "linha": "Input",
+        "origem": "publicado",
+        "LPIPS": "0.3485",
+        "DISTS": "0.1827",
+        "CLIP-IQA": "0.4337",
+        "MANIQA": "0.3325",
+        "MUSIQ": "45.5376"
+      },
+      {
+        "linha": "GenRefocus (paper)",
+        "origem": "publicado",
+        "LPIPS": "0.1440",
+        "DISTS": "0.0772",
+        "CLIP-IQA": "0.4755",
+        "MANIQA": "0.3452",
+        "MUSIQ": "49.4122"
+      },
+      {
+        "linha": "Input (nosso)",
+        "origem": "medido",
+        "LPIPS": "0.3440",
+        "DISTS": "0.1830",
+        "CLIP-IQA": "0.5392",
+        "MANIQA": "0.2856",
+        "MUSIQ": "55.3128"
+      },
+      {
+        "linha": "nosso best (15.5k)",
+        "origem": "medido",
+        "LPIPS": "0.1942",
+        "DISTS": "0.1055",
+        "CLIP-IQA": "0.5801",
+        "MANIQA": "0.4463",
+        "MUSIQ": "58.3602"
+      }
+    ],
+    "realdof": [
+      {
+        "linha": "Input",
+        "origem": "publicado",
+        "LPIPS": "0.5241",
+        "DISTS": "0.2865",
+        "CLIP-IQA": "0.3562",
+        "MANIQA": "0.2213",
+        "MUSIQ": "28.7087"
+      },
+      {
+        "linha": "GenRefocus (paper)",
+        "origem": "publicado",
+        "LPIPS": "0.2408",
+        "DISTS": "0.1126",
+        "CLIP-IQA": "0.4595",
+        "MANIQA": "0.2884",
+        "MUSIQ": "43.5222"
+      },
+      {
+        "linha": "Input (nosso)",
+        "origem": "medido",
+        "LPIPS": "0.5280",
+        "DISTS": "0.2865",
+        "CLIP-IQA": "0.3576",
+        "MANIQA": "0.1356",
+        "MUSIQ": "23.6394"
+      },
+      {
+        "linha": "nosso best (15.5k)",
+        "origem": "medido",
+        "LPIPS": "0.2410",
+        "DISTS": "0.1104",
+        "CLIP-IQA": "0.4497",
+        "MANIQA": "0.3563",
+        "MUSIQ": "35.6961"
+      }
+    ]
+  },
+  "protocolos": {
+    "DPDD · Input (nosso)": {
+      "rotulo": "Input (nosso)",
+      "modo": "identidade",
+      "peso": null,
+      "variante_adapter": null,
+      "main_adapter": null,
+      "text_adapter": null,
+      "steps": null,
+      "guidance_scale": null,
+      "no_tiling_forcado": false,
+      "seed": 42,
+      "dataset": "akcit-pixel/DDPD",
+      "split": "test",
+      "n_amostras": 75,
+      "long_side": 0,
+      "gt_passou_por_resize": true,
+      "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+      "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+      "metricas": {
+        "LPIPS": {
+          "variante_pyiqa": "lpips+",
+          "conjunto": "time",
+          "sentido": "menor",
+          "precisa_gt": true,
+          "lower_better_pyiqa": true
+        },
+        "DISTS": {
+          "variante_pyiqa": "dists",
+          "conjunto": "time",
+          "sentido": "menor",
+          "precisa_gt": true,
+          "lower_better_pyiqa": true
+        },
+        "CLIP-IQA": {
+          "variante_pyiqa": "clipiqa+",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        },
+        "MANIQA": {
+          "variante_pyiqa": "maniqa-kadid",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        },
+        "MUSIQ": {
+          "variante_pyiqa": "musiq",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        }
+      },
+      "resolucoes_da_metrica": [
+        {
+          "w": 1680,
+          "h": 1120
+        }
+      ],
+      "ambiente": {
+        "python": "3.10.12",
+        "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+        "torch": "2.9.0+cu126"
+      },
+      "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+      "resultado": {
+        "LPIPS": {
+          "media": 0.3440080112218857,
+          "mediana": 0.33046624064445496,
+          "min": 0.10546326637268066,
+          "max": 0.6675606966018677,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "menor"
+        },
+        "DISTS": {
+          "media": 0.18304006576538087,
+          "mediana": 0.18353015184402466,
+          "min": 0.0690232515335083,
+          "max": 0.38725465536117554,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "menor"
+        },
+        "CLIP-IQA": {
+          "media": 0.5392038230101267,
+          "mediana": 0.5556334853172302,
+          "min": 0.2548590898513794,
+          "max": 0.7248803377151489,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "maior"
+        },
+        "MANIQA": {
+          "media": 0.28558380603790284,
+          "mediana": 0.2829347252845764,
+          "min": 0.13774007558822632,
+          "max": 0.5077291131019592,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "maior"
+        },
+        "MUSIQ": {
+          "media": 55.312774378458656,
+          "mediana": 56.31427764892578,
+          "min": 12.71906852722168,
+          "max": 73.24486541748047,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "maior"
+        }
+      }
+    },
+    "DPDD · nosso best (15.5k)": {
+      "rotulo": "nosso best (15.5k)",
+      "modo": "modelo",
+      "peso": {
+        "caminho": "/workspace/retreinar-deblur/outputs/deblur_docker_4gpu/deblur/deblur_best_step15500.safetensors",
+        "nome": "deblur_best_step15500.safetensors",
+        "bytes": 1854533784,
+        "sha256": "a941d6b5906c78fee98a4f11574f36729d61dee62a978ee9b4cb9ba28efec1c7"
+      },
+      "variante_adapter": "cond-only",
+      "main_adapter": null,
+      "text_adapter": "igual_ao_main",
+      "steps": 28,
+      "guidance_scale": 3.5,
+      "no_tiling_forcado": false,
+      "seed": 42,
+      "dataset": "akcit-pixel/DDPD",
+      "split": "test",
+      "n_amostras": 75,
+      "long_side": 0,
+      "gt_passou_por_resize": true,
+      "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+      "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+      "metricas": {
+        "LPIPS": {
+          "variante_pyiqa": "lpips+",
+          "conjunto": "time",
+          "sentido": "menor",
+          "precisa_gt": true,
+          "lower_better_pyiqa": true
+        },
+        "DISTS": {
+          "variante_pyiqa": "dists",
+          "conjunto": "time",
+          "sentido": "menor",
+          "precisa_gt": true,
+          "lower_better_pyiqa": true
+        },
+        "CLIP-IQA": {
+          "variante_pyiqa": "clipiqa+",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        },
+        "MANIQA": {
+          "variante_pyiqa": "maniqa-kadid",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        },
+        "MUSIQ": {
+          "variante_pyiqa": "musiq",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        }
+      },
+      "resolucoes_da_metrica": [
+        {
+          "w": 1680,
+          "h": 1120
+        }
+      ],
+      "ambiente": {
+        "python": "3.10.12",
+        "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+        "torch": "2.9.0+cu126"
+      },
+      "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+      "resultado": {
+        "LPIPS": {
+          "media": 0.1942259492476781,
+          "mediana": 0.17685094475746155,
+          "min": 0.0681588426232338,
+          "max": 0.4620460271835327,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "menor"
+        },
+        "DISTS": {
+          "media": 0.10554116487503051,
+          "mediana": 0.09829002618789673,
+          "min": 0.04556429386138916,
+          "max": 0.21958857774734497,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "menor"
+        },
+        "CLIP-IQA": {
+          "media": 0.5800779390335083,
+          "mediana": 0.5873959064483643,
+          "min": 0.3048745393753052,
+          "max": 0.7149142622947693,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "maior"
+        },
+        "MANIQA": {
+          "media": 0.4462865861256917,
+          "mediana": 0.43933776021003723,
+          "min": 0.22667676210403442,
+          "max": 0.6672881245613098,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "maior"
+        },
+        "MUSIQ": {
+          "media": 58.360161844889326,
+          "mediana": 60.99899673461914,
+          "min": 24.569561004638672,
+          "max": 72.10347747802734,
+          "n_validos": 75,
+          "n_falhas": 0,
+          "sentido": "maior"
+        }
+      }
+    },
+    "RealDOF · Input (nosso)": {
+      "rotulo": "Input (nosso)",
+      "modo": "identidade",
+      "peso": null,
+      "variante_adapter": null,
+      "main_adapter": null,
+      "text_adapter": null,
+      "steps": null,
+      "guidance_scale": null,
+      "no_tiling_forcado": false,
+      "seed": 42,
+      "dataset": "akcit-pixel/RealDOF",
+      "split": "validation",
+      "n_amostras": 50,
+      "long_side": 0,
+      "gt_passou_por_resize": true,
+      "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+      "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+      "metricas": {
+        "LPIPS": {
+          "variante_pyiqa": "lpips+",
+          "conjunto": "time",
+          "sentido": "menor",
+          "precisa_gt": true,
+          "lower_better_pyiqa": true
+        },
+        "DISTS": {
+          "variante_pyiqa": "dists",
+          "conjunto": "time",
+          "sentido": "menor",
+          "precisa_gt": true,
+          "lower_better_pyiqa": true
+        },
+        "CLIP-IQA": {
+          "variante_pyiqa": "clipiqa+",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        },
+        "MANIQA": {
+          "variante_pyiqa": "maniqa-kadid",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        },
+        "MUSIQ": {
+          "variante_pyiqa": "musiq",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        }
+      },
+      "resolucoes_da_metrica": [
+        {
+          "w": 2304,
+          "h": 1536
+        },
+        {
+          "w": 2320,
+          "h": 1520
+        },
+        {
+          "w": 2320,
+          "h": 1536
+        },
+        {
+          "w": 2336,
+          "h": 1536
+        },
+        {
+          "w": 2336,
+          "h": 1552
+        }
+      ],
+      "ambiente": {
+        "python": "3.10.12",
+        "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+        "torch": "2.9.0+cu126"
+      },
+      "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+      "resultado": {
+        "LPIPS": {
+          "media": 0.528002325296402,
+          "mediana": 0.5361765027046204,
+          "min": 0.20228898525238037,
+          "max": 0.699571967124939,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "menor"
+        },
+        "DISTS": {
+          "media": 0.2865482246875763,
+          "mediana": 0.29132509231567383,
+          "min": 0.060224294662475586,
+          "max": 0.42620158195495605,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "menor"
+        },
+        "CLIP-IQA": {
+          "media": 0.3576437133550644,
+          "mediana": 0.34828853607177734,
+          "min": 0.2542398273944855,
+          "max": 0.5281234383583069,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "maior"
+        },
+        "MANIQA": {
+          "media": 0.13561244294047356,
+          "mediana": 0.12744025886058807,
+          "min": 0.0772305354475975,
+          "max": 0.38375961780548096,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "maior"
+        },
+        "MUSIQ": {
+          "media": 23.639436168670656,
+          "mediana": 19.370359420776367,
+          "min": 13.541028022766113,
+          "max": 57.0562744140625,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "maior"
+        }
+      }
+    },
+    "RealDOF · nosso best (15.5k)": {
+      "rotulo": "nosso best (15.5k)",
+      "modo": "modelo",
+      "peso": {
+        "caminho": "/workspace/retreinar-deblur/outputs/deblur_docker_4gpu/deblur/deblur_best_step15500.safetensors",
+        "nome": "deblur_best_step15500.safetensors",
+        "bytes": 1854533784,
+        "sha256": "a941d6b5906c78fee98a4f11574f36729d61dee62a978ee9b4cb9ba28efec1c7"
+      },
+      "variante_adapter": "cond-only",
+      "main_adapter": null,
+      "text_adapter": "igual_ao_main",
+      "steps": 28,
+      "guidance_scale": 3.5,
+      "no_tiling_forcado": false,
+      "seed": 42,
+      "dataset": "akcit-pixel/RealDOF",
+      "split": "validation",
+      "n_amostras": 50,
+      "long_side": 0,
+      "gt_passou_por_resize": true,
+      "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+      "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+      "metricas": {
+        "LPIPS": {
+          "variante_pyiqa": "lpips+",
+          "conjunto": "time",
+          "sentido": "menor",
+          "precisa_gt": true,
+          "lower_better_pyiqa": true
+        },
+        "DISTS": {
+          "variante_pyiqa": "dists",
+          "conjunto": "time",
+          "sentido": "menor",
+          "precisa_gt": true,
+          "lower_better_pyiqa": true
+        },
+        "CLIP-IQA": {
+          "variante_pyiqa": "clipiqa+",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        },
+        "MANIQA": {
+          "variante_pyiqa": "maniqa-kadid",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        },
+        "MUSIQ": {
+          "variante_pyiqa": "musiq",
+          "conjunto": "time",
+          "sentido": "maior",
+          "precisa_gt": false,
+          "lower_better_pyiqa": false
+        }
+      },
+      "resolucoes_da_metrica": [
+        {
+          "w": 2304,
+          "h": 1536
+        },
+        {
+          "w": 2320,
+          "h": 1520
+        },
+        {
+          "w": 2320,
+          "h": 1536
+        },
+        {
+          "w": 2336,
+          "h": 1536
+        },
+        {
+          "w": 2336,
+          "h": 1552
+        }
+      ],
+      "ambiente": {
+        "python": "3.10.12",
+        "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+        "torch": "2.9.0+cu126"
+      },
+      "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+      "resultado": {
+        "LPIPS": {
+          "media": 0.24096378266811372,
+          "mediana": 0.24931658804416656,
+          "min": 0.1308930516242981,
+          "max": 0.46714526414871216,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "menor"
+        },
+        "DISTS": {
+          "media": 0.1104166579246521,
+          "mediana": 0.10452985763549805,
+          "min": 0.05620962381362915,
+          "max": 0.31679975986480713,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "menor"
+        },
+        "CLIP-IQA": {
+          "media": 0.44969193518161776,
+          "mediana": 0.4539104402065277,
+          "min": 0.3342827260494232,
+          "max": 0.6001874208450317,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "maior"
+        },
+        "MANIQA": {
+          "media": 0.3562709766626358,
+          "mediana": 0.3443257808685303,
+          "min": 0.2611401677131653,
+          "max": 0.48303860425949097,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "maior"
+        },
+        "MUSIQ": {
+          "media": 35.6960563659668,
+          "mediana": 34.40348434448242,
+          "min": 19.5834903717041,
+          "max": 53.42191696166992,
+          "n_validos": 50,
+          "n_falhas": 0,
+          "sentido": "maior"
+        }
+      }
+    }
+  },
+  "publicado": {
+    "dpdd": {
+      "Input": {
+        "LPIPS": 0.3485,
+        "DISTS": 0.1827,
+        "CLIP-IQA": 0.4337,
+        "MANIQA": 0.3325,
+        "MUSIQ": 45.5376
+      },
+      "GenRefocus (paper)": {
+        "LPIPS": 0.144,
+        "DISTS": 0.0772,
+        "CLIP-IQA": 0.4755,
+        "MANIQA": 0.3452,
+        "MUSIQ": 49.4122
+      }
+    },
+    "realdof": {
+      "Input": {
+        "LPIPS": 0.5241,
+        "DISTS": 0.2865,
+        "CLIP-IQA": 0.3562,
+        "MANIQA": 0.2213,
+        "MUSIQ": 28.7087
+      },
+      "GenRefocus (paper)": {
+        "LPIPS": 0.2408,
+        "DISTS": 0.1126,
+        "CLIP-IQA": 0.4595,
+        "MANIQA": 0.2884,
+        "MUSIQ": 43.5222
+      }
+    }
+  },
+  "mesas": {
+    "dpdd": {
+      "nome_paper": "DPDD",
+      "dataset": "akcit-pixel/DDPD",
+      "split": "test",
+      "n_esperado": 75,
+      "obs": "split de teste, o benchmark canônico do DPDD"
+    },
+    "realdof": {
+      "nome_paper": "RealDOF",
+      "dataset": "akcit-pixel/RealDOF",
+      "split": "validation",
+      "n_esperado": 50,
+      "obs": "único split do repo; corresponde ao conjunto de teste de 50 imagens do RealDOF"
+    }
+  }
+}

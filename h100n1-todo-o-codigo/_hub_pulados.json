@@ -1,0 +1,12 @@
+[
+ {
+  "cat": "confirma",
+  "caminho": "runs_confirma/Bgrad/seed_0",
+  "motivo": "sem test_metrics.json"
+ },
+ {
+  "cat": "ablacao",
+  "caminho": "ablacao_spring/heads__B7_normal_dom",
+  "motivo": "sem summary.json (treino em andamento)"
+ }
+]

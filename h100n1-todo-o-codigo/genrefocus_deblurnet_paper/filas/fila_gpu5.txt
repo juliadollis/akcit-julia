@@ -1,0 +1,7 @@
+# 2026-09-10 — AVALIACAO DA CONDICAO B (condicionamento geometrico), completa.
+# O geo B parou em 15000 steps de PROJETO ('screen; a vencedora vai para 60K'),
+# entao o par de comparacao tem de ser o baseline NO MESMO STEP, e nao o de 60k.
+# Amostra completa e mesma faixa de K das outras tabelas.
+geoB-rb|--lora-repo juliadollis/bokehnet-geo-B --lora-file bokeh_step15000.safetensors --nome geoB-15k-RB-full --saida juliadollis/bokeh-eval-rb-geoB15k --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+geoB-rd|--lora-repo juliadollis/bokehnet-geo-B --lora-file bokeh_step15000.safetensors --nome geoB-15k-RD-full --saida juliadollis/bokeh-eval-rd-geoB15k --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+geoB-lfr|--lora-repo juliadollis/bokehnet-geo-B --lora-file bokeh_step15000.safetensors --nome geoB-15k-LFREPRO-full --saida juliadollis/bokeh-eval-lfrepro-geoB15k-full --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

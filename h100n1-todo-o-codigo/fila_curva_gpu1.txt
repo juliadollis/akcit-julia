@@ -1,0 +1,1 @@
+curva-10k-LFREPRO|--lora-repo juliadollis/genrefocus-bokehnet-fase2-rotac-only --lora-file bokeh_step10000.safetensors --nome rotac-only-10k-LFREPRO --saida juliadollis/bokeh-eval-lfrepro-rotac10k --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

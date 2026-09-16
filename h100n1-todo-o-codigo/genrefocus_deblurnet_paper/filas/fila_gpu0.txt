@@ -1,0 +1,8 @@
+# 2026-09-10 — TRIAGEM DO CONDICIONAMENTO GEOMETRICO, condicao B.
+# O config do geo B tem 'steps: 15000  # screen; a vencedora vai para 60K',
+# entao 15k e o ponto de parada projetado, nao um treino interrompido.
+# CONSEQUENCIA: comparar B@15k com o baseline de 60k seria injusto. Por isso
+# avaliamos tambem o baseline NO MESMO STEP (fase2-real bokeh_step15000).
+# Amostra COMPLETA e mesma faixa de K, para poder entrar na tabela geral.
+geoB-rb|--lora-repo juliadollis/bokehnet-geo-B --lora-file bokeh_step15000.safetensors --nome geoB-15k-RB-full --saida juliadollis/bokeh-eval-rb-geoB15k --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+geoB-rd|--lora-repo juliadollis/bokehnet-geo-B --lora-file bokeh_step15000.safetensors --nome geoB-15k-RD-full --saida juliadollis/bokeh-eval-rd-geoB15k --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0

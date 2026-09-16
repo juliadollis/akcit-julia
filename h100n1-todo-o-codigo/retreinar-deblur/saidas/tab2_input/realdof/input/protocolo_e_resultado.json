@@ -1,0 +1,131 @@
+{
+  "rotulo": "Input (identidade)",
+  "modo": "identidade",
+  "peso": null,
+  "variante_adapter": null,
+  "main_adapter": null,
+  "text_adapter": null,
+  "steps": null,
+  "guidance_scale": null,
+  "no_tiling_forcado": false,
+  "seed": 42,
+  "dataset": "akcit-pixel/RealDOF",
+  "split": "validation",
+  "n_amostras": 50,
+  "long_side": 0,
+  "gt_passou_por_resize": true,
+  "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+  "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+  "metricas": {
+    "LPIPS": {
+      "variante_pyiqa": "lpips+",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "DISTS": {
+      "variante_pyiqa": "dists",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "CLIP-IQA": {
+      "variante_pyiqa": "clipiqa+",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MANIQA": {
+      "variante_pyiqa": "maniqa-kadid",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MUSIQ": {
+      "variante_pyiqa": "musiq",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    }
+  },
+  "resolucoes_da_metrica": [
+    {
+      "w": 2304,
+      "h": 1536
+    },
+    {
+      "w": 2320,
+      "h": 1520
+    },
+    {
+      "w": 2320,
+      "h": 1536
+    },
+    {
+      "w": 2336,
+      "h": 1536
+    },
+    {
+      "w": 2336,
+      "h": 1552
+    }
+  ],
+  "ambiente": {
+    "python": "3.10.12",
+    "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+    "torch": "2.9.0+cu126"
+  },
+  "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+  "resultado": {
+    "LPIPS": {
+      "media": 0.528002325296402,
+      "mediana": 0.5361765027046204,
+      "min": 0.20228898525238037,
+      "max": 0.699571967124939,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "DISTS": {
+      "media": 0.2865482246875763,
+      "mediana": 0.29132509231567383,
+      "min": 0.060224294662475586,
+      "max": 0.42620158195495605,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "CLIP-IQA": {
+      "media": 0.3576437133550644,
+      "mediana": 0.34828853607177734,
+      "min": 0.2542398273944855,
+      "max": 0.5281234383583069,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MANIQA": {
+      "media": 0.13561244294047356,
+      "mediana": 0.12744025886058807,
+      "min": 0.0772305354475975,
+      "max": 0.38375961780548096,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MUSIQ": {
+      "media": 23.639436168670656,
+      "mediana": 19.370359420776367,
+      "min": 13.541028022766113,
+      "max": 57.0562744140625,
+      "n_validos": 50,
+      "n_falhas": 0,
+      "sentido": "maior"
+    }
+  }
+}

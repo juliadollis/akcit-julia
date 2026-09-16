@@ -1,0 +1,866 @@
+[
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_0/spring_test/meta.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_0/spring_test/meta.json",
+  "size": 201
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_0/spring_test/por_imagem.csv",
+  "dest": "runs_b0_retreino__B0_berhu__seed_0/spring_test/por_imagem.csv",
+  "size": 154389
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_0/spring_test/test_metrics.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_0/spring_test/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_1/spring_test/meta.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_1/spring_test/meta.json",
+  "size": 201
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_1/spring_test/por_imagem.csv",
+  "dest": "runs_b0_retreino__B0_berhu__seed_1/spring_test/por_imagem.csv",
+  "size": 153847
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_1/spring_test/test_metrics.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_1/spring_test/test_metrics.json",
+  "size": 593
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_2/spring_test/meta.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_2/spring_test/meta.json",
+  "size": 201
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_2/spring_test/por_imagem.csv",
+  "dest": "runs_b0_retreino__B0_berhu__seed_2/spring_test/por_imagem.csv",
+  "size": 153884
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_2/spring_test/test_metrics.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_2/spring_test/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_3/spring_test/meta.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_3/spring_test/meta.json",
+  "size": 201
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_3/spring_test/por_imagem.csv",
+  "dest": "runs_b0_retreino__B0_berhu__seed_3/spring_test/por_imagem.csv",
+  "size": 154723
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_3/spring_test/test_metrics.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_3/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_4/spring_test/meta.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_4/spring_test/meta.json",
+  "size": 201
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_4/spring_test/por_imagem.csv",
+  "dest": "runs_b0_retreino__B0_berhu__seed_4/spring_test/por_imagem.csv",
+  "size": 154053
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_4/spring_test/test_metrics.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_4/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_5/spring_test/meta.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_5/spring_test/meta.json",
+  "size": 201
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_5/spring_test/por_imagem.csv",
+  "dest": "runs_b0_retreino__B0_berhu__seed_5/spring_test/por_imagem.csv",
+  "size": 153929
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_b0_retreino__B0_berhu__seed_5/spring_test/test_metrics.json",
+  "dest": "runs_b0_retreino__B0_berhu__seed_5/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B0_berhu__seed_8/spring_test/meta.json",
+  "dest": "runs_retreino__B0_berhu__seed_8/spring_test/meta.json",
+  "size": 198
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B0_berhu__seed_8/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B0_berhu__seed_8/spring_test/por_imagem.csv",
+  "size": 153881
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B0_berhu__seed_8/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B0_berhu__seed_8/spring_test/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B0_berhu__seed_9/spring_test/meta.json",
+  "dest": "runs_retreino__B0_berhu__seed_9/spring_test/meta.json",
+  "size": 198
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B0_berhu__seed_9/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B0_berhu__seed_9/spring_test/por_imagem.csv",
+  "size": 153855
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B0_berhu__seed_9/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B0_berhu__seed_9/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_0/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_0/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_0/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_0/spring_test/por_imagem.csv",
+  "size": 154088
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_0/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_0/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_1/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_1/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_1/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_1/spring_test/por_imagem.csv",
+  "size": 154598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_1/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_1/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_2/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_2/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_2/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_2/spring_test/por_imagem.csv",
+  "size": 154158
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_2/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_2/spring_test/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_3/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_3/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_3/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_3/spring_test/por_imagem.csv",
+  "size": 154073
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_3/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_3/spring_test/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_4/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_4/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_4/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_4/spring_test/por_imagem.csv",
+  "size": 154656
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_4/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_4/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_5/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_5/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_5/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_5/spring_test/por_imagem.csv",
+  "size": 154035
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto1000__seed_5/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto1000__seed_5/spring_test/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_0/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_0/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_0/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_0/spring_test/por_imagem.csv",
+  "size": 153642
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_0/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_0/spring_test/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_1/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_1/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_1/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_1/spring_test/por_imagem.csv",
+  "size": 153834
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_1/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_1/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_2/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_2/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_2/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_2/spring_test/por_imagem.csv",
+  "size": 153604
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_2/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_2/spring_test/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_4/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_4/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_4/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_4/spring_test/por_imagem.csv",
+  "size": 154132
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_4/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_4/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_5/spring_test/meta.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_5/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_5/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_5/spring_test/por_imagem.csv",
+  "size": 154479
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B1_gauss_metrica_teto5__seed_5/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B1_gauss_metrica_teto5__seed_5/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_0/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_0/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_0/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_0/spring_test/por_imagem.csv",
+  "size": 153723
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_0/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_0/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_1/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_1/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_1/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_1/spring_test/por_imagem.csv",
+  "size": 153467
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_1/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_1/spring_test/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_2/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_2/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_2/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_2/spring_test/por_imagem.csv",
+  "size": 153927
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_2/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_2/spring_test/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_3/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_3/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_3/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_3/spring_test/por_imagem.csv",
+  "size": 153365
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_3/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_3/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_4/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_4/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_4/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_4/spring_test/por_imagem.csv",
+  "size": 153874
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_4/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_4/spring_test/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_5/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_5/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_5/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_5/spring_test/por_imagem.csv",
+  "size": 154149
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_5/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_5/spring_test/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_6/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_6/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_6/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_6/spring_test/por_imagem.csv",
+  "size": 153437
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_6/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_6/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_7/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_7/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_7/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_7/spring_test/por_imagem.csv",
+  "size": 153873
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_7/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_7/spring_test/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_8/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_8/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_8/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_8/spring_test/por_imagem.csv",
+  "size": 153667
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_8/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_8/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_9/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_9/spring_test/meta.json",
+  "size": 215
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_9/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_9/spring_test/por_imagem.csv",
+  "size": 153506
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto1000__seed_9/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto1000__seed_9/spring_test/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_0/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_0/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_0/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_0/spring_test/por_imagem.csv",
+  "size": 153382
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_0/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_0/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_1/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_1/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_1/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_1/spring_test/por_imagem.csv",
+  "size": 153651
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_1/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_1/spring_test/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_2/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_2/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_2/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_2/spring_test/por_imagem.csv",
+  "size": 153335
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_2/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_2/spring_test/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_3/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_3/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_3/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_3/spring_test/por_imagem.csv",
+  "size": 153176
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_3/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_3/spring_test/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_4/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_4/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_4/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_4/spring_test/por_imagem.csv",
+  "size": 152884
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_4/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_4/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_5/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_5/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_5/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_5/spring_test/por_imagem.csv",
+  "size": 153975
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_5/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_5/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_6/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_6/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_6/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_6/spring_test/por_imagem.csv",
+  "size": 153348
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_6/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_6/spring_test/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_7/spring_test/meta.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_7/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_7/spring_test/por_imagem.csv",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_7/spring_test/por_imagem.csv",
+  "size": 153863
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_retreino__B3_gauss_metrica_teto5__seed_7/spring_test/test_metrics.json",
+  "dest": "runs_retreino__B3_gauss_metrica_teto5__seed_7/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_0/spring_test/meta.json",
+  "dest": "runs_riemann__B0_berhu_size768__seed_0/spring_test/meta.json",
+  "size": 205
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_0/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B0_berhu_size768__seed_0/spring_test/por_imagem.csv",
+  "size": 154087
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_0/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B0_berhu_size768__seed_0/spring_test/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_1/spring_test/meta.json",
+  "dest": "runs_riemann__B0_berhu_size768__seed_1/spring_test/meta.json",
+  "size": 205
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_1/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B0_berhu_size768__seed_1/spring_test/por_imagem.csv",
+  "size": 154412
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_1/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B0_berhu_size768__seed_1/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_2/spring_test/meta.json",
+  "dest": "runs_riemann__B0_berhu_size768__seed_2/spring_test/meta.json",
+  "size": 205
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_2/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B0_berhu_size768__seed_2/spring_test/por_imagem.csv",
+  "size": 154525
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B0_berhu_size768__seed_2/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B0_berhu_size768__seed_2/spring_test/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B1_gauss_metrica_teto5__seed_3/spring_test/meta.json",
+  "dest": "runs_riemann__B1_gauss_metrica_teto5__seed_3/spring_test/meta.json",
+  "size": 211
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B1_gauss_metrica_teto5__seed_3/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B1_gauss_metrica_teto5__seed_3/spring_test/por_imagem.csv",
+  "size": 153666
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B1_gauss_metrica_teto5__seed_3/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B1_gauss_metrica_teto5__seed_3/spring_test/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_0/spring_test/meta.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_0/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_0/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_0/spring_test/por_imagem.csv",
+  "size": 153333
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_0/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_0/spring_test/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_1/spring_test/meta.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_1/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_1/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_1/spring_test/por_imagem.csv",
+  "size": 153879
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_1/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_1/spring_test/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_2/spring_test/meta.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_2/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_2/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_2/spring_test/por_imagem.csv",
+  "size": 153619
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_2/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_2/spring_test/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_3/spring_test/meta.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_3/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_3/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_3/spring_test/por_imagem.csv",
+  "size": 152894
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_3/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_3/spring_test/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_4/spring_test/meta.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_4/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_4/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_4/spring_test/por_imagem.csv",
+  "size": 153709
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_4/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_4/spring_test/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_5/spring_test/meta.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_5/spring_test/meta.json",
+  "size": 212
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_5/spring_test/por_imagem.csv",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_5/spring_test/por_imagem.csv",
+  "size": 153393
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/runs_riemann__B3_gauss_metrica_teto50__seed_5/spring_test/test_metrics.json",
+  "dest": "runs_riemann__B3_gauss_metrica_teto50__seed_5/spring_test/test_metrics.json",
+  "size": 601
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/zero_shot/spring_test/meta.json",
+  "dest": "zero_shot/spring_test/meta.json",
+  "size": 170
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/zero_shot/spring_test/por_imagem.csv",
+  "dest": "zero_shot/spring_test/por_imagem.csv",
+  "size": 153383
+ },
+ {
+  "cat": "avaliacao",
+  "src": "/host/avaliacoes/zero_shot/spring_test/test_metrics.json",
+  "dest": "zero_shot/spring_test/test_metrics.json",
+  "size": 598
+ }
+]

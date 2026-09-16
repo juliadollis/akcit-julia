@@ -1,0 +1,35 @@
+# Fila de retreino, ordenada por SEED e nao por braco.
+# Prioridade 1: seeds 0 a 5 de todos os bracos -> fecha a TABELA 1 (n=6).
+# Prioridade 2: seeds 6 a 9 -> anexo de robustez.
+# formato: braco|qual|teto|seed
+B1_gauss_metrica_teto1000|b1|1000|0
+B1_gauss_metrica_teto5|b1|5|0
+B3_gauss_metrica_teto1000|b3|1000|0
+B3_gauss_metrica_teto5|b3|5|0
+B1_gauss_metrica_teto1000|b1|1000|1
+B1_gauss_metrica_teto5|b1|5|1
+B3_gauss_metrica_teto1000|b3|1000|1
+B3_gauss_metrica_teto5|b3|5|1
+B1_gauss_metrica_teto1000|b1|1000|2
+B1_gauss_metrica_teto5|b1|5|2
+B3_gauss_metrica_teto1000|b3|1000|2
+B3_gauss_metrica_teto5|b3|5|2
+B1_gauss_metrica_teto1000|b1|1000|3
+B3_gauss_metrica_teto1000|b3|1000|3
+B3_gauss_metrica_teto5|b3|5|3
+B1_gauss_metrica_teto1000|b1|1000|4
+B1_gauss_metrica_teto5|b1|5|4
+B3_gauss_metrica_teto1000|b3|1000|4
+B3_gauss_metrica_teto5|b3|5|4
+B1_gauss_metrica_teto1000|b1|1000|5
+B1_gauss_metrica_teto5|b1|5|5
+B3_gauss_metrica_teto1000|b3|1000|5
+B3_gauss_metrica_teto5|b3|5|5
+B3_gauss_metrica_teto1000|b3|1000|6
+B3_gauss_metrica_teto5|b3|5|6
+B3_gauss_metrica_teto1000|b3|1000|7
+B3_gauss_metrica_teto5|b3|5|7
+B0_berhu|b0|-|8
+B3_gauss_metrica_teto1000|b3|1000|8
+B0_berhu|b0|-|9
+B3_gauss_metrica_teto1000|b3|1000|9

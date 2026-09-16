@@ -1,0 +1,120 @@
+{
+  "rotulo": "nosso best (15.5k)",
+  "modo": "modelo",
+  "peso": {
+    "caminho": "/workspace/retreinar-deblur/outputs/deblur_docker_4gpu/deblur/deblur_best_step15500.safetensors",
+    "nome": "deblur_best_step15500.safetensors",
+    "bytes": 1854533784,
+    "sha256": "a941d6b5906c78fee98a4f11574f36729d61dee62a978ee9b4cb9ba28efec1c7"
+  },
+  "variante_adapter": "cond-only",
+  "main_adapter": null,
+  "text_adapter": "igual_ao_main",
+  "steps": 28,
+  "guidance_scale": 3.5,
+  "no_tiling_forcado": false,
+  "seed": 42,
+  "dataset": "akcit-pixel/DDPD",
+  "split": "test",
+  "n_amostras": 75,
+  "long_side": 0,
+  "gt_passou_por_resize": true,
+  "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+  "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+  "metricas": {
+    "LPIPS": {
+      "variante_pyiqa": "lpips+",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "DISTS": {
+      "variante_pyiqa": "dists",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "CLIP-IQA": {
+      "variante_pyiqa": "clipiqa+",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MANIQA": {
+      "variante_pyiqa": "maniqa-kadid",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MUSIQ": {
+      "variante_pyiqa": "musiq",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    }
+  },
+  "resolucoes_da_metrica": [
+    {
+      "w": 1680,
+      "h": 1120
+    }
+  ],
+  "ambiente": {
+    "python": "3.10.12",
+    "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+    "torch": "2.9.0+cu126"
+  },
+  "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+  "resultado": {
+    "LPIPS": {
+      "media": 0.1942259492476781,
+      "mediana": 0.17685094475746155,
+      "min": 0.0681588426232338,
+      "max": 0.4620460271835327,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "DISTS": {
+      "media": 0.10554116487503051,
+      "mediana": 0.09829002618789673,
+      "min": 0.04556429386138916,
+      "max": 0.21958857774734497,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "CLIP-IQA": {
+      "media": 0.5800779390335083,
+      "mediana": 0.5873959064483643,
+      "min": 0.3048745393753052,
+      "max": 0.7149142622947693,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MANIQA": {
+      "media": 0.4462865861256917,
+      "mediana": 0.43933776021003723,
+      "min": 0.22667676210403442,
+      "max": 0.6672881245613098,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MUSIQ": {
+      "media": 58.360161844889326,
+      "mediana": 60.99899673461914,
+      "min": 24.569561004638672,
+      "max": 72.10347747802734,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    }
+  }
+}

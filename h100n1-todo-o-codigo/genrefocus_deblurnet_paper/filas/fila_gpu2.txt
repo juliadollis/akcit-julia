@@ -1,0 +1,2 @@
+# 2026-09-10 — LF-repro em amostra COMPLETA (a outra sessao roda so 40 cenas).
+geoB-lfr|--lora-repo juliadollis/bokehnet-geo-B --lora-file bokeh_step15000.safetensors --nome geoB-15k-LFREPRO-full --saida juliadollis/bokeh-eval-lfrepro-geoB15k-full --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

@@ -1,0 +1,35 @@
+[
+  {
+    "repo": "juliadollis/bokeh-eval-infer-kfix-ddpd",
+    "n": 20,
+    "dif_px_mediana": 0.2614852637052536,
+    "desvio_rel_lv_mediana": 0.004540113612570873,
+    "lvcorr_media": 0.03,
+    "lvcorr_sd": 0.5908468498688979,
+    "lvcorr_min": -1.0,
+    "lvcorr_max": 1.0,
+    "dr_mediana": 1.0005501070565908
+  },
+  {
+    "repo": "juliadollis/bokeh-eval-infer-nosso-kesc",
+    "n": 20,
+    "dif_px_mediana": 0.2640565037727356,
+    "desvio_rel_lv_mediana": 0.0031848717516418062,
+    "lvcorr_media": -2.2204460492503132e-17,
+    "lvcorr_sd": 0.6418722614352484,
+    "lvcorr_min": -1.0,
+    "lvcorr_max": 0.7999999999999999,
+    "dr_mediana": 1.00039775851889
+  },
+  {
+    "repo": "juliadollis/bokeh-eval-infer-oficial-kesc",
+    "n": 20,
+    "dif_px_mediana": 0.13287353515625,
+    "desvio_rel_lv_mediana": 0.0038687379428250747,
+    "lvcorr_media": 0.16999999999999998,
+    "lvcorr_sd": 0.577148161220323,
+    "lvcorr_min": -0.7999999999999999,
+    "lvcorr_max": 1.0,
+    "dr_mediana": 1.0008249739454511
+  }
+]

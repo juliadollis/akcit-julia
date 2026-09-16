@@ -1,0 +1,1 @@
+eq4-nosso-rb|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh.safetensors --nome nosso-fase2-RB-eq4 --saida juliadollis/bokeh-eq4-rb-nosso --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0

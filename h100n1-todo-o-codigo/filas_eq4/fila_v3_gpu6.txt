@@ -1,0 +1,1 @@
+eq4-fase1-rb|--lora-repo juliadollis/genrefocus-bokehnet-synth-2gpu --lora-file bokeh.safetensors --nome fase1-RB-eq4 --saida juliadollis/bokeh-eq4-rb-fase1 --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0

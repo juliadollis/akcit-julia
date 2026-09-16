@@ -1,0 +1,2 @@
+eb-Alinha|--lora-repo juliadollis/bokehnet-geo-Alinha --lora-file bokeh_step15000.safetensors --nome Alinha-15k-EBLEED --saida juliadollis/bokeh-eb-lfrepro-Alinha --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 40 --long-side 512 --lote 10 --k-escala 3.0
+eb-A15k|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh_step15000.safetensors --nome A-fase2real-15k-EBLEED --saida juliadollis/bokeh-eb-lfrepro-A15k --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 40 --long-side 512 --lote 10 --k-escala 3.0

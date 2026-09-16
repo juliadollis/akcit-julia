@@ -1,0 +1,11 @@
+juliadollis/bokeh-eval-infer-sem-treino
+juliadollis/bokeh-eval-infer-fase1-realdof-kesc
+juliadollis/bokeh-eval-infer-nosso-realdof-final
+juliadollis/bokeh-eval-infer-step40000-kesc
+juliadollis/bokeh-eval-infer-semtreino-fullres
+juliadollis/bokeh-eval-rb-rotac
+juliadollis/bokeh-eval-rb-fase1-full
+juliadollis/bokeh-eval-rd-semtreino-full
+juliadollis/bokeh-eval-lfrepro-rotac
+juliadollis/bokeh-eval-rd-rotac45k-full
+juliadollis/bokeh-eval-lfrepro-rotac20k

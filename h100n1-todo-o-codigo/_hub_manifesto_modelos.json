@@ -1,0 +1,1994 @@
+[
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_0/best.pt",
+  "dest": "pesos_originais/B0_berhu_size768/seed_0/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_0/test_metrics.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_0/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_0/summary.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_0/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_0/history.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_0/history.json",
+  "size": 90202
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_1/best.pt",
+  "dest": "pesos_originais/B0_berhu_size768/seed_1/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_1/test_metrics.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_1/test_metrics.json",
+  "size": 590
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_1/summary.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_1/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_1/history.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_1/history.json",
+  "size": 90199
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_2/best.pt",
+  "dest": "pesos_originais/B0_berhu_size768/seed_2/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_2/test_metrics.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_2/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_2/summary.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_2/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B0_berhu_size768/seed_2/history.json",
+  "dest": "pesos_originais/B0_berhu_size768/seed_2/history.json",
+  "size": 62193
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B1_gauss_metrica_teto5/seed_3/best.pt",
+  "dest": "pesos_originais/B1_gauss_metrica_teto5/seed_3/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B1_gauss_metrica_teto5/seed_3/test_metrics.json",
+  "dest": "pesos_originais/B1_gauss_metrica_teto5/seed_3/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B1_gauss_metrica_teto5/seed_3/summary.json",
+  "dest": "pesos_originais/B1_gauss_metrica_teto5/seed_3/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B1_gauss_metrica_teto5/seed_3/history.json",
+  "dest": "pesos_originais/B1_gauss_metrica_teto5/seed_3/history.json",
+  "size": 30446
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_0/best.pt",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_0/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_0/test_metrics.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_0/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_0/summary.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_0/history.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_0/history.json",
+  "size": 52213
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_1/best.pt",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_1/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_1/test_metrics.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_1/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_1/summary.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_1/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_1/history.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_1/history.json",
+  "size": 86998
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_2/best.pt",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_2/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_2/test_metrics.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_2/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_2/summary.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_2/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_2/history.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_2/history.json",
+  "size": 37296
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_3/best.pt",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_3/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_3/test_metrics.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_3/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_3/summary.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_3/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_3/history.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_3/history.json",
+  "size": 34112
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_4/best.pt",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_4/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_4/test_metrics.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_4/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_4/summary.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_4/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_4/history.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_4/history.json",
+  "size": 70349
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_5/best.pt",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_5/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_5/test_metrics.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_5/test_metrics.json",
+  "size": 601
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_5/summary.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_5/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "originais",
+  "src": "/host/runs_riemann/B3_gauss_metrica_teto50/seed_5/history.json",
+  "dest": "pesos_originais/B3_gauss_metrica_teto50/seed_5/history.json",
+  "size": 43715
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B0_berhu/seed_8/best.pt",
+  "dest": "pesos_retreino/B0_berhu/seed_8/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B0_berhu/seed_8/test_metrics.json",
+  "dest": "pesos_retreino/B0_berhu/seed_8/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B0_berhu/seed_8/summary.json",
+  "dest": "pesos_retreino/B0_berhu/seed_8/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B0_berhu/seed_8/history.json",
+  "dest": "pesos_retreino/B0_berhu/seed_8/history.json",
+  "size": 90030
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B0_berhu/seed_9/best.pt",
+  "dest": "pesos_retreino/B0_berhu/seed_9/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B0_berhu/seed_9/test_metrics.json",
+  "dest": "pesos_retreino/B0_berhu/seed_9/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B0_berhu/seed_9/summary.json",
+  "dest": "pesos_retreino/B0_berhu/seed_9/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B0_berhu/seed_9/history.json",
+  "dest": "pesos_retreino/B0_berhu/seed_9/history.json",
+  "size": 57388
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_0/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_0/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_0/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_0/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_0/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_0/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_0/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_0/history.json",
+  "size": 98083
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_1/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_1/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_1/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_1/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_1/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_1/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_1/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_1/history.json",
+  "size": 80677
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_2/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_2/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_2/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_2/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_2/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_2/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_2/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_2/history.json",
+  "size": 41125
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_3/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_3/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_3/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_3/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_3/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_3/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_3/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_3/history.json",
+  "size": 97287
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_4/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_4/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_4/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_4/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_4/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_4/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_4/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_4/history.json",
+  "size": 89412
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_5/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_5/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_5/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_5/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_5/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_5/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto1000/seed_5/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto1000/seed_5/history.json",
+  "size": 98104
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_0/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_0/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_0/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_0/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_0/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_0/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_0/history.json",
+  "size": 60886
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_1/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_1/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_1/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_1/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_1/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_1/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_1/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_1/history.json",
+  "size": 50058
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_2/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_2/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_2/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_2/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_2/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_2/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_2/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_2/history.json",
+  "size": 32379
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_4/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_4/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_4/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_4/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_4/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_4/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_4/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_4/history.json",
+  "size": 65708
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_5/best.pt",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_5/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_5/test_metrics.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_5/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_5/summary.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_5/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B1_gauss_metrica_teto5/seed_5/history.json",
+  "dest": "pesos_retreino/B1_gauss_metrica_teto5/seed_5/history.json",
+  "size": 61836
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_0/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_0/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_0/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_0/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_0/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_0/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_0/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_0/history.json",
+  "size": 33036
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_1/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_1/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_1/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_1/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_1/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_1/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_1/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_1/history.json",
+  "size": 33066
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_2/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_2/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_2/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_2/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_2/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_2/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_2/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_2/history.json",
+  "size": 56519
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_3/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_3/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_3/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_3/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_3/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_3/summary.json",
+  "size": 110
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_3/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_3/history.json",
+  "size": 35183
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_4/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_4/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_4/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_4/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_4/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_4/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_4/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_4/history.json",
+  "size": 39445
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_5/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_5/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_5/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_5/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_5/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_5/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_5/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_5/history.json",
+  "size": 82097
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_6/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_6/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_6/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_6/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_6/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_6/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_6/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_6/history.json",
+  "size": 35184
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_7/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_7/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_7/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_7/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_7/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_7/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_7/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_7/history.json",
+  "size": 37319
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_8/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_8/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_8/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_8/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_8/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_8/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_8/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_8/history.json",
+  "size": 43724
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_9/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_9/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_9/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_9/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_9/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_9/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto1000/seed_9/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto1000/seed_9/history.json",
+  "size": 70318
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_0/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_0/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_0/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_0/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_0/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_0/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_0/history.json",
+  "size": 38207
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_1/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_1/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_1/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_1/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_1/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_1/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_1/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_1/history.json",
+  "size": 56372
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_2/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_2/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_2/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_2/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_2/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_2/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_2/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_2/history.json",
+  "size": 43679
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_3/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_3/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_3/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_3/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_3/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_3/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_3/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_3/history.json",
+  "size": 36053
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_4/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_4/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_4/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_4/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_4/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_4/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_4/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_4/history.json",
+  "size": 96883
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_5/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_5/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_5/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_5/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_5/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_5/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_5/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_5/history.json",
+  "size": 106511
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_6/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_6/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_6/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_6/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_6/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_6/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_6/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_6/history.json",
+  "size": 38318
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_7/best.pt",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_7/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_7/test_metrics.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_7/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_7/summary.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_7/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_retreino/B3_gauss_metrica_teto5/seed_7/history.json",
+  "dest": "pesos_retreino/B3_gauss_metrica_teto5/seed_7/history.json",
+  "size": 54223
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_0/best.pt",
+  "dest": "pesos_retreino/B0_berhu/seed_0/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_0/test_metrics.json",
+  "dest": "pesos_retreino/B0_berhu/seed_0/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_0/summary.json",
+  "dest": "pesos_retreino/B0_berhu/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_0/history.json",
+  "dest": "pesos_retreino/B0_berhu/seed_0/history.json",
+  "size": 51082
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_1/best.pt",
+  "dest": "pesos_retreino/B0_berhu/seed_1/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_1/test_metrics.json",
+  "dest": "pesos_retreino/B0_berhu/seed_1/test_metrics.json",
+  "size": 593
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_1/summary.json",
+  "dest": "pesos_retreino/B0_berhu/seed_1/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_1/history.json",
+  "dest": "pesos_retreino/B0_berhu/seed_1/history.json",
+  "size": 90218
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_2/best.pt",
+  "dest": "pesos_retreino/B0_berhu/seed_2/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_2/test_metrics.json",
+  "dest": "pesos_retreino/B0_berhu/seed_2/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_2/summary.json",
+  "dest": "pesos_retreino/B0_berhu/seed_2/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_2/history.json",
+  "dest": "pesos_retreino/B0_berhu/seed_2/history.json",
+  "size": 51354
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_3/best.pt",
+  "dest": "pesos_retreino/B0_berhu/seed_3/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_3/test_metrics.json",
+  "dest": "pesos_retreino/B0_berhu/seed_3/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_3/summary.json",
+  "dest": "pesos_retreino/B0_berhu/seed_3/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_3/history.json",
+  "dest": "pesos_retreino/B0_berhu/seed_3/history.json",
+  "size": 86570
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_4/best.pt",
+  "dest": "pesos_retreino/B0_berhu/seed_4/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_4/test_metrics.json",
+  "dest": "pesos_retreino/B0_berhu/seed_4/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_4/summary.json",
+  "dest": "pesos_retreino/B0_berhu/seed_4/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_4/history.json",
+  "dest": "pesos_retreino/B0_berhu/seed_4/history.json",
+  "size": 89628
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_5/best.pt",
+  "dest": "pesos_retreino/B0_berhu/seed_5/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_5/test_metrics.json",
+  "dest": "pesos_retreino/B0_berhu/seed_5/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_5/summary.json",
+  "dest": "pesos_retreino/B0_berhu/seed_5/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "retreino",
+  "src": "/host/runs_b0_retreino/B0_berhu/seed_5/history.json",
+  "dest": "pesos_retreino/B0_berhu/seed_5/history.json",
+  "size": 80856
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/ablation_results.csv",
+  "dest": "ablacao_spring/ablation_results.csv",
+  "size": 3224
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B0_berhu/best.pt",
+  "dest": "ablacao_spring/heads__B0_berhu/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B0_berhu/history.json",
+  "dest": "ablacao_spring/heads__B0_berhu/history.json",
+  "size": 28040
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B0_berhu/summary.json",
+  "dest": "ablacao_spring/heads__B0_berhu/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+gauss/best.pt",
+  "dest": "ablacao_spring/heads__B1_berhu+gauss/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+gauss/history.json",
+  "dest": "ablacao_spring/heads__B1_berhu+gauss/history.json",
+  "size": 30446
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+gauss/summary.json",
+  "dest": "ablacao_spring/heads__B1_berhu+gauss/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+geod/best.pt",
+  "dest": "ablacao_spring/heads__B1_berhu+geod/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+geod/history.json",
+  "dest": "ablacao_spring/heads__B1_berhu+geod/history.json",
+  "size": 30416
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+geod/summary.json",
+  "dest": "ablacao_spring/heads__B1_berhu+geod/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+grad/best.pt",
+  "dest": "ablacao_spring/heads__B1_berhu+grad/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+grad/history.json",
+  "dest": "ablacao_spring/heads__B1_berhu+grad/history.json",
+  "size": 30362
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+grad/summary.json",
+  "dest": "ablacao_spring/heads__B1_berhu+grad/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+metric/best.pt",
+  "dest": "ablacao_spring/heads__B1_berhu+metric/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+metric/history.json",
+  "dest": "ablacao_spring/heads__B1_berhu+metric/history.json",
+  "size": 30537
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+metric/summary.json",
+  "dest": "ablacao_spring/heads__B1_berhu+metric/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+normal/best.pt",
+  "dest": "ablacao_spring/heads__B1_berhu+normal/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+normal/history.json",
+  "dest": "ablacao_spring/heads__B1_berhu+normal/history.json",
+  "size": 30526
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B1_berhu+normal/summary.json",
+  "dest": "ablacao_spring/heads__B1_berhu+normal/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B7_gauss_dom/best.pt",
+  "dest": "ablacao_spring/heads__B7_gauss_dom/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B7_gauss_dom/history.json",
+  "dest": "ablacao_spring/heads__B7_gauss_dom/history.json",
+  "size": 35298
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B7_gauss_dom/summary.json",
+  "dest": "ablacao_spring/heads__B7_gauss_dom/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B7_gaussheavy/best.pt",
+  "dest": "ablacao_spring/heads__B7_gaussheavy/best.pt",
+  "size": 1369768241
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B7_gaussheavy/history.json",
+  "dest": "ablacao_spring/heads__B7_gaussheavy/history.json",
+  "size": 32892
+ },
+ {
+  "cat": "ablacao",
+  "src": "/host/runs_ablacao_spring/ablacao_spring/heads__B7_gaussheavy/summary.json",
+  "dest": "ablacao_spring/heads__B7_gaussheavy/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_0/history.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_0/history.json",
+  "size": 51082
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_0/summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_0/test_metrics.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_0/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_1/history.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_1/history.json",
+  "size": 90218
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_1/summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_1/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_1/test_metrics.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_1/test_metrics.json",
+  "size": 593
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_2/history.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_2/history.json",
+  "size": 51354
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_2/summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_2/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_2/test_metrics.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_2/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_3/history.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_3/history.json",
+  "size": 86570
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_3/summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_3/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_3/test_metrics.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_3/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_4/history.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_4/history.json",
+  "size": 89628
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_4/summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_4/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_4/test_metrics.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_4/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_5/history.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_5/history.json",
+  "size": 80856
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_5/summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_5/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_5/test_metrics.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_5/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_8/history.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_8/history.json",
+  "size": 90030
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_8/summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_8/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_8/test_metrics.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_8/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_9/history.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_9/history.json",
+  "size": 57388
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_9/summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_9/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/seed_9/test_metrics.json",
+  "dest": "metricas_campanha_completa/B0_berhu/seed_9/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B0_berhu/test_summary.json",
+  "dest": "metricas_campanha_completa/B0_berhu/test_summary.json",
+  "size": 705
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_0/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_0/history.json",
+  "size": 39310
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_0/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_0/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_0/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_1/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_1/history.json",
+  "size": 44125
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_1/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_1/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_1/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_1/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_2/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_2/history.json",
+  "size": 52959
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_2/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_2/summary.json",
+  "size": 113
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_2/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_2/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_3/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_3/history.json",
+  "size": 60881
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_3/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_3/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_3/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_3/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_4/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_4/history.json",
+  "size": 40322
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_4/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_4/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_4/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_4/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_5/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_5/history.json",
+  "size": 48993
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_5/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_5/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/seed_5/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/seed_5/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto1000/test_summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto1000/test_summary.json",
+  "size": 704
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_0/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_0/history.json",
+  "size": 96288
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_0/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_0/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_0/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_1/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_1/history.json",
+  "size": 63496
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_1/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_1/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_1/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_1/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_2/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_2/history.json",
+  "size": 67745
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_2/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_2/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_2/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_2/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_4/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_4/history.json",
+  "size": 71656
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_4/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_4/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_4/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_4/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_5/history.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_5/history.json",
+  "size": 39203
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_5/summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_5/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/seed_5/test_metrics.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/seed_5/test_metrics.json",
+  "size": 600
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B1_gauss_metrica_teto5/test_summary.json",
+  "dest": "metricas_campanha_completa/B1_gauss_metrica_teto5/test_summary.json",
+  "size": 583
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_0/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_0/history.json",
+  "size": 62935
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_0/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_0/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_0/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_1/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_1/history.json",
+  "size": 38401
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_1/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_1/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_1/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_1/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_2/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_2/history.json",
+  "size": 34139
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_2/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_2/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_2/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_2/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_3/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_3/history.json",
+  "size": 36248
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_3/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_3/summary.json",
+  "size": 110
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_3/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_3/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_4/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_4/history.json",
+  "size": 34090
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_4/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_4/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_4/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_4/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_5/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_5/history.json",
+  "size": 35167
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_5/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_5/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_5/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_5/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_6/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_6/history.json",
+  "size": 57591
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_6/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_6/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_6/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_6/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_7/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_7/history.json",
+  "size": 34125
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_7/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_7/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_7/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_7/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_8/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_8/history.json",
+  "size": 36238
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_8/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_8/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_8/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_8/test_metrics.json",
+  "size": 594
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_9/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_9/history.json",
+  "size": 67159
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_9/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_9/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/seed_9/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/seed_9/test_metrics.json",
+  "size": 598
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto1000/test_summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto1000/test_summary.json",
+  "size": 945
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_0/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_0/history.json",
+  "size": 44597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_0/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_0/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_0/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_0/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_1/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_1/history.json",
+  "size": 44478
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_1/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_1/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_1/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_1/test_metrics.json",
+  "size": 599
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_2/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_2/history.json",
+  "size": 53184
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_2/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_2/summary.json",
+  "size": 111
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_2/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_2/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_3/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_3/history.json",
+  "size": 54309
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_3/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_3/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_3/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_3/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_4/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_4/history.json",
+  "size": 67955
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_4/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_4/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_4/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_4/test_metrics.json",
+  "size": 595
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_5/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_5/history.json",
+  "size": 33025
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_5/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_5/summary.json",
+  "size": 110
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_5/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_5/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_6/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_6/history.json",
+  "size": 38333
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_6/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_6/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_6/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_6/test_metrics.json",
+  "size": 597
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_7/history.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_7/history.json",
+  "size": 49799
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_7/summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_7/summary.json",
+  "size": 112
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/seed_7/test_metrics.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/seed_7/test_metrics.json",
+  "size": 596
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/B3_gauss_metrica_teto5/test_summary.json",
+  "dest": "metricas_campanha_completa/B3_gauss_metrica_teto5/test_summary.json",
+  "size": 823
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/ZERO_SHOT_spring/meta.json",
+  "dest": "metricas_campanha_completa/ZERO_SHOT_spring/meta.json",
+  "size": 394
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/ZERO_SHOT_spring/por_imagem.csv",
+  "dest": "metricas_campanha_completa/ZERO_SHOT_spring/por_imagem.csv",
+  "size": 153383
+ },
+ {
+  "cat": "metricas",
+  "src": "/host/runs_riemann_metricas_preservadas/ZERO_SHOT_spring/test_metrics.json",
+  "dest": "metricas_campanha_completa/ZERO_SHOT_spring/test_metrics.json",
+  "size": 598
+ }
+]

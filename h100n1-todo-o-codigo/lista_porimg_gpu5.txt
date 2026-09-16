@@ -1,0 +1,10 @@
+juliadollis/bokeh-eval-infer-oficial-kesc
+juliadollis/bokeh-eval-infer-nosso-kesc
+juliadollis/bokeh-eval-infer-semtreino-ddpd73
+juliadollis/bokeh-eval-infer-nosso-realdof
+juliadollis/bokeh-eval-infer-kfix-step40000
+juliadollis/bokeh-eval-rd-identidade-full
+juliadollis/bokeh-eval-rd-fase1-full
+juliadollis/bokeh-eval-lfrepro-fase1
+juliadollis/bokeh-eval-rd-rotac60k-full
+juliadollis/bokeh-eval-rd-nofilter28k-full

@@ -1,0 +1,3 @@
+eq4-semtreino-rd|--lora-repo none --nome sem-treino-RD-eq4 --saida juliadollis/bokeh-eq4-rd-semtreino --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+eq4-semtreino-rb|--lora-repo none --nome sem-treino-RB-eq4 --saida juliadollis/bokeh-eq4-rb-semtreino --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+eq4-semtreino-lfrepro|--lora-repo none --nome sem-treino-LFREPRO-eq4 --saida juliadollis/bokeh-eq4-lfrepro-semtreino --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

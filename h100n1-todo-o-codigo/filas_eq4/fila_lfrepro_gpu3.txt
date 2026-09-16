@@ -1,0 +1,1 @@
+eq4-oficial-lfrepro|--lora-repo nycu-cplab/Genfocus-Model --lora-file bokehNet.safetensors --nome oficial-paper-LFREPRO-eq4 --saida juliadollis/bokeh-eq4-lfrepro-oficial --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

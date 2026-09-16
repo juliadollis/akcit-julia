@@ -1,0 +1,1 @@
+kesc5-ebb-oficial|--lora-repo nycu-cplab/Genfocus-Model --lora-file bokehNet.safetensors --nome oficial-paper-EBB-kesc5 --saida juliadollis/bokeh-kesc5-ebb-oficial --dataset-entrada juliadollis/bokeh-bench-ebb400 --limite 0 --long-side 512 --lote 10 --k-escala 5.0

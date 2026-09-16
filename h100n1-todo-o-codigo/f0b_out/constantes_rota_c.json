@@ -1,0 +1,24 @@
+{
+ "constantes": {
+  "tau_occlusion": 88.17023931749958,
+  "u_max": 2.7231549947753972,
+  "s_max": 4.479333796246694,
+  "k0_curvature": 14.599951909926324,
+  "kt_max": 7.567014022271208,
+  "z_percentile_max": 99.5,
+  "smooth_sigma": 2.0,
+  "min_quant_levels": 256
+ },
+ "procedencia": {
+  "n_amostras": 300,
+  "rotas": [
+   "c"
+  ],
+  "field": "inverse",
+  "image_size": 512,
+  "alvo_saturacao": 0.01,
+  "escalares": [
+   "/saida/f0b_rota_c.jsonl"
+  ]
+ }
+}

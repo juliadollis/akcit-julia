@@ -1,0 +1,2 @@
+eq4-rotac60k-lfrepro|--lora-repo juliadollis/genrefocus-bokehnet-fase2-rotac-only --lora-file bokeh_step60000.safetensors --nome rotac-only-60k-LFREPRO-eq4 --saida juliadollis/bokeh-eq4-lfrepro-rotac60k --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+eq4-semtreino-lfrepro|--lora-repo none --nome sem-treino-LFREPRO-eq4 --saida juliadollis/bokeh-eq4-lfrepro-semtreino --dataset-entrada juliadollis/lf-bokeh-repro-blb --limite 0 --long-side 512 --lote 10 --k-escala 3.0

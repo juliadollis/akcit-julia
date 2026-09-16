@@ -1,0 +1,120 @@
+{
+  "rotulo": "nosso final (60k)",
+  "modo": "modelo",
+  "peso": {
+    "caminho": "/workspace/retreinar-deblur/outputs/deblur_docker_4gpu/deblur/deblur.safetensors",
+    "nome": "deblur.safetensors",
+    "bytes": 1854533784,
+    "sha256": "a1ed05e48f7a3469cf825eda6a8ceca4cca1e6f6dbdb665d78a6f9e207d8cecc"
+  },
+  "variante_adapter": "cond-only",
+  "main_adapter": null,
+  "text_adapter": "igual_ao_main",
+  "steps": 28,
+  "guidance_scale": 3.5,
+  "no_tiling_forcado": false,
+  "seed": 42,
+  "dataset": "akcit-pixel/DDPD",
+  "split": "test",
+  "n_amostras": 75,
+  "long_side": 0,
+  "gt_passou_por_resize": true,
+  "gt_resize_fn": "resize_and_pad_image(long_side=0)",
+  "gt_resize_obs": "long_side=0 arredonda PARA CIMA ao múltiplo de 16, não reduz",
+  "metricas": {
+    "LPIPS": {
+      "variante_pyiqa": "lpips+",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "DISTS": {
+      "variante_pyiqa": "dists",
+      "conjunto": "time",
+      "sentido": "menor",
+      "precisa_gt": true,
+      "lower_better_pyiqa": true
+    },
+    "CLIP-IQA": {
+      "variante_pyiqa": "clipiqa+",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MANIQA": {
+      "variante_pyiqa": "maniqa-kadid",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    },
+    "MUSIQ": {
+      "variante_pyiqa": "musiq",
+      "conjunto": "time",
+      "sentido": "maior",
+      "precisa_gt": false,
+      "lower_better_pyiqa": false
+    }
+  },
+  "resolucoes_da_metrica": [
+    {
+      "w": 1680,
+      "h": 1120
+    }
+  ],
+  "ambiente": {
+    "python": "3.10.12",
+    "plataforma": "Linux-6.8.0-1047-nvidia-x86_64-with-glibc2.35",
+    "torch": "2.9.0+cu126"
+  },
+  "aviso": "LPIPS/DISTS não são invariantes a escala, e as variantes do pyiqa não são intercambiáveis. Comparar com números PUBLICADOS exige conferir o protocolo dos dois lados. Ver PROTOCOLO.md.",
+  "resultado": {
+    "LPIPS": {
+      "media": 0.1744250723719597,
+      "mediana": 0.16983425617218018,
+      "min": 0.06411615759134293,
+      "max": 0.3909755051136017,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "DISTS": {
+      "media": 0.10210113525390625,
+      "mediana": 0.09480613470077515,
+      "min": 0.04639464616775513,
+      "max": 0.21116280555725098,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "menor"
+    },
+    "CLIP-IQA": {
+      "media": 0.5722591761747996,
+      "mediana": 0.5752261281013489,
+      "min": 0.27444690465927124,
+      "max": 0.7179141044616699,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MANIQA": {
+      "media": 0.429108017484347,
+      "mediana": 0.43056604266166687,
+      "min": 0.1940360814332962,
+      "max": 0.6554595828056335,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    },
+    "MUSIQ": {
+      "media": 58.27613800048828,
+      "mediana": 60.25035095214844,
+      "min": 22.188945770263672,
+      "max": 71.0406723022461,
+      "n_validos": 75,
+      "n_falhas": 0,
+      "sentido": "maior"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "tabelas": {
+    "dpdd": [
+      {
+        "linha": "Input",
+        "origem": "publicado",
+        "LPIPS": "0.3485",
+        "DISTS": "0.1827",
+        "CLIP-IQA": "0.4337",
+        "MANIQA": "0.3325",
+        "MUSIQ": "45.5376"
+      },
+      {
+        "linha": "GenRefocus (paper)",
+        "origem": "publicado",
+        "LPIPS": "0.1440",
+        "DISTS": "0.0772",
+        "CLIP-IQA": "0.4755",
+        "MANIQA": "0.3452",
+        "MUSIQ": "49.4122"
+      }
+    ],
+    "realdof": [
+      {
+        "linha": "Input",
+        "origem": "publicado",
+        "LPIPS": "0.5241",
+        "DISTS": "0.2865",
+        "CLIP-IQA": "0.3562",
+        "MANIQA": "0.2213",
+        "MUSIQ": "28.7087"
+      },
+      {
+        "linha": "GenRefocus (paper)",
+        "origem": "publicado",
+        "LPIPS": "0.2408",
+        "DISTS": "0.1126",
+        "CLIP-IQA": "0.4595",
+        "MANIQA": "0.2884",
+        "MUSIQ": "43.5222"
+      }
+    ]
+  },
+  "protocolos": {},
+  "publicado": {
+    "dpdd": {
+      "Input": {
+        "LPIPS": 0.3485,
+        "DISTS": 0.1827,
+        "CLIP-IQA": 0.4337,
+        "MANIQA": 0.3325,
+        "MUSIQ": 45.5376
+      },
+      "GenRefocus (paper)": {
+        "LPIPS": 0.144,
+        "DISTS": 0.0772,
+        "CLIP-IQA": 0.4755,
+        "MANIQA": 0.3452,
+        "MUSIQ": 49.4122
+      }
+    },
+    "realdof": {
+      "Input": {
+        "LPIPS": 0.5241,
+        "DISTS": 0.2865,
+        "CLIP-IQA": 0.3562,
+        "MANIQA": 0.2213,
+        "MUSIQ": 28.7087
+      },
+      "GenRefocus (paper)": {
+        "LPIPS": 0.2408,
+        "DISTS": 0.1126,
+        "CLIP-IQA": 0.4595,
+        "MANIQA": 0.2884,
+        "MUSIQ": 43.5222
+      }
+    }
+  },
+  "mesas": {
+    "dpdd": {
+      "nome_paper": "DPDD",
+      "dataset": "akcit-pixel/DDPD",
+      "split": "test",
+      "n_esperado": 75,
+      "obs": "split de teste, o benchmark canônico do DPDD"
+    },
+    "realdof": {
+      "nome_paper": "RealDOF",
+      "dataset": "akcit-pixel/RealDOF",
+      "split": "validation",
+      "n_esperado": 50,
+      "obs": "único split do repo; corresponde ao conjunto de teste de 50 imagens do RealDOF"
+    }
+  }
+}

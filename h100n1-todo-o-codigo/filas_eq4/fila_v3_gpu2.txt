@@ -1,0 +1,1 @@
+eq4-oficial-ebb|--lora-repo nycu-cplab/Genfocus-Model --lora-file bokehNet.safetensors --nome oficial-paper-EBB-eq4 --saida juliadollis/bokeh-eq4-ebb-oficial --dataset-entrada juliadollis/bokeh-bench-ebb400 --limite 0 --long-side 512 --lote 10 --k-escala 3.0

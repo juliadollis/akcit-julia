@@ -1,0 +1,2 @@
+eq4-nosso-rd|--lora-repo juliadollis/genrefocus-bokehnet-fase2-real --lora-file bokeh.safetensors --nome nosso-fase2-RD-eq4 --saida juliadollis/bokeh-eq4-rd-nosso --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+eq4-kfix-rd|--lora-repo juliadollis/genrefocus-bokehnet-fase2-kfix --lora-file bokeh_step60000.safetensors --nome kfix-RD-eq4 --saida juliadollis/bokeh-eq4-rd-kfix --dataset-entrada akcit-pixel/RealDOF --limite 0 --long-side 512 --lote 10 --k-escala 3.0

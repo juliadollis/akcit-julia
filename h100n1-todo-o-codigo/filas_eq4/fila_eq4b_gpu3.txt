@@ -1,0 +1,2 @@
+eq4-kfix-rb|--lora-repo juliadollis/genrefocus-bokehnet-fase2-kfix --lora-file bokeh_step60000.safetensors --nome kfix-RB-eq4 --saida juliadollis/bokeh-eq4-rb-kfix --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0
+eq4-nofilter-rb|--lora-repo juliadollis/genrefocus-bokehnet-fase2-nofilter --lora-file bokeh_step28000.safetensors --nome nofilter-28k-RB-eq4 --saida juliadollis/bokeh-eq4-rb-nofilter --dataset-entrada juliadollis/bokeh-bench-realbokeh-test-v2 --limite 0 --long-side 512 --lote 10 --k-escala 3.0
