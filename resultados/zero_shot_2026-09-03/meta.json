@@ -1,0 +1,14 @@
+{
+  "o_que_e": "DepthPro sem fine-tune (zero-shot) no split de teste",
+  "checkpoint": "/models/checkpoints/depth_pro.pt",
+  "test_root": "/data/spring_split/test",
+  "variant": "heads",
+  "size": 512,
+  "batch_size": 8,
+  "seed": 0,
+  "n_imagens": 485,
+  "n_cenas": 13,
+  "agregado_de": "Trainer.validate(), mesma funcao dos bracos treinados",
+  "treinou": false,
+  "carregou_best_pt": false
+}

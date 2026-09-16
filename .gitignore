@@ -1,0 +1,19 @@
+# segredos
+.env
+*.env
+!.env.example
+
+# pesos e dados: vão para o Hugging Face, nunca para o git
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.npy
+*.zip
+
+# caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+hf-cache/
