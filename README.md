@@ -47,6 +47,7 @@ na seção 6, e este repositório é a outra metade dela.
 | [`docs/03-INFRAESTRUTURA.md`](docs/03-INFRAESTRUTURA.md) | a máquina, o docker, as regras, como rodar do zero |
 | [`docs/04-ACHADOS-TECNICOS.md`](docs/04-ACHADOS-TECNICOS.md) | os cinco achados que valem além deste projeto |
 | [`docs/05-CAMINHOS.md`](docs/05-CAMINHOS.md) | **o inventário: cada modelo, cada avaliação, onde mora e o que é** |
+| [`docs/06-TEORIA.md`](docs/06-TEORIA.md) | **a geometria por trás da hipótese, o que cada termo mede, e por que a curvatura falhou** |
 | [`docs/ENVIO_WALLISSON.md`](docs/ENVIO_WALLISSON.md) | o retorno sobre a ablação, com os três pontos do código dele |
 
 Se você só vai ler um, leia o `05-CAMINHOS.md`. É o mapa.
