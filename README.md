@@ -48,6 +48,8 @@ na seção 6, e este repositório é a outra metade dela.
 | [`docs/04-ACHADOS-TECNICOS.md`](docs/04-ACHADOS-TECNICOS.md) | os cinco achados que valem além deste projeto |
 | [`docs/05-CAMINHOS.md`](docs/05-CAMINHOS.md) | **o inventário: cada modelo, cada avaliação, onde mora e o que é** |
 | [`docs/06-TEORIA.md`](docs/06-TEORIA.md) | **a geometria por trás da hipótese, o que cada termo mede, e por que a curvatura falhou** |
+| [`docs/07-RESULTADOS-FINAIS.md`](docs/07-RESULTADOS-FINAIS.md) | **a tabela final, só com modelos que ainda existem, n=6 por braço** |
+| [`docs/08-ABLACAO.md`](docs/08-ABLACAO.md) | **a ablação dos cinco termos, e o que a confirmação com o nosso protocolo mostrou** |
 | [`docs/ENVIO_WALLISSON.md`](docs/ENVIO_WALLISSON.md) | o retorno sobre a ablação, com os três pontos do código dele |
 
 Se você só vai ler um, leia o `05-CAMINHOS.md`. É o mapa.
